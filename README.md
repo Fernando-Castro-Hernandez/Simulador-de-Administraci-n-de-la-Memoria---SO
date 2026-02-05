@@ -15,6 +15,10 @@
 
 ---
 
+# Link de la pagina web
+```
+https://fernando-castro-hernandez.github.io/Simulador-de-Administraci-n-de-la-Memoria---SO/
+```
 
 
 ## 🎓 Introducción
@@ -217,6 +221,7 @@ Best Fit                    Worst Fit
 - **Tabla Comparativa**: Destaca qué algoritmo es mejor en cada métrica
 
 ---
+
 
 
 
